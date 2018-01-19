@@ -5,8 +5,8 @@ import TandR
 
 main :: IO ()
 main = hspec $ do
-    functionTest
-    -- adtTest
+    -- functionTest
+    adtTest
 
 
 -- INTERNO
